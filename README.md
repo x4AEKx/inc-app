@@ -4,7 +4,7 @@
 
 ---
 
-![Inc-app image](https://github.com/x4aekx/inc-app/raw/main/public/tinc.gif)
+![Inc-app image](https://github.com/x4aekx/inc-app/raw/main/public/inc.gif)
 
 ---
 
