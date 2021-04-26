@@ -1,0 +1,13 @@
+.button {
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 5px;
+    border: none;
+    color: darkslategray;
+    padding: 4px 4px;
+}
+
+.button:active {
+    background-color: darkslategray;
+    color: aqua;
+}
